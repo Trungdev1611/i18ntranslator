@@ -1,0 +1,12 @@
+{
+  "account": "Account",
+  "dialog": {
+    "error": "Error ne",
+    "cancel": "Đóng",
+    "warning": "Cảnh báo",
+    "info": "Thông tin",
+    "loading": "Đang tải",
+    "select": "Chọn",
+    "success": "Thành công"
+  }
+}

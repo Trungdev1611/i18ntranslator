@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  box-shadow: 4px 5px 3px #cccccc;
+  min-height: 70px;
+}
+.flex-item {
+  text-align: center;
+}
+.logo {
+  flex-basis: 100px;
+}
+ul {
+  list-style: none;
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+}
+ul li {
+  display: inline-block;
+}
+.position {
+  position: fixed;
+  bottom: 10px;
+  padding: 10px;
+  left: 10px;
+}
